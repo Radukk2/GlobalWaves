@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] D:\Automatica 2023-2024\POO\Gloabal_Waves\oop-project-2023\etapa2\.\src\app\CommandRunner.java:3:29: Using the '.*' form of import should be avoided - app.audio.Collections.*. [AvoidStarImport]
+[ERROR] D:\Automatica 2023-2024\POO\Gloabal_Waves\oop-project-2023\etapa2\.\src\app\searchBar\SearchBar.java:12:40: Using the '.*' form of import should be avoided - app.searchBar.FilterUtils.*. [AvoidStarImport]
+Audit done.
+Checkstyle ends with 2 errors.
